@@ -50,8 +50,8 @@
                         "vmCount": 1,
                         "namePrefix": "s2jb",
                         "computerNamePrefix": "s2jb",
-                        "adminUsername": "",
-                        "adminPassword": "",
+                        "adminUsername": "localadmin",
+                        "adminPassword": "M1cr0soft123",
                         "osType": "windows",
                         "virtualNetwork": {
                             "name": "spoke2-vnet"
