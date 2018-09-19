@@ -11,8 +11,8 @@
                         "vmCount": 1,
                         "namePrefix": "nva",
                         "computerNamePrefix": "nva",
-                        "adminUsername": "",
-                        "adminPassword": "",
+                        "adminUsername": "localadmin",
+                        "adminPassword": "M1cr0soft123",
                         "osType": "linux",
                         "virtualNetwork": {
                             "resourceGroupName": "hub-vnet-rg",
