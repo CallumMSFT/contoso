@@ -48,8 +48,8 @@
                         "vmCount": 1,
                         "namePrefix": "hubjb",
                         "computerNamePrefix": "hubjb",
-                        "adminUsername": "",
-                        "adminPassword": "",
+                        "adminUsername": "localadmin",
+                        "adminPassword": "M1cr0soft123",
                         "osType": "windows",
                         "virtualNetwork": {
                             "name": "hub-vnet"
@@ -83,7 +83,7 @@
                         {
                             "connectionType": "Vnet2Vnet",
                             "name": "hub-onprem-conn",
-                            "sharedKey": "",
+                            "sharedKey": "abc123321cba",
                             "routingWeight": 1,
                             "virtualNetworkGateway1": {
                                 "resourceGroupName": "onprem-vnet-rg",
@@ -103,7 +103,7 @@
                         {
                             "connectionType": "Vnet2Vnet",
                             "name": "hub-conn",
-                            "sharedKey": "",
+                            "sharedKey": "abc123321cba",
                             "routingWeight": 1,
                             "virtualNetworkGateway1": {
                                 "resourceGroupName": "hub-vnet-rg",
