@@ -9,6 +9,6 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 # Update
 
-##### Callum Lowe, September 2018
+##### Callum Lowe, 20 September 2018
 
-This repo has had the hybrid networking shared services hub-spoke reference architecture modified.  The changes can be tracked via GitHub.  For the original files, please refer to the URL at the top pof this page.
+This repo has had the hybrid networking shared services hub-spoke reference architecture modified.  The changes can be tracked via GitHub.  For the original files, please refer to the URL at the top of this page.
