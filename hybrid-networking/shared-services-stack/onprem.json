@@ -63,8 +63,8 @@
                         "computerNamePrefix": "ad",
                         "namePrefix": "ad",
                         "size": "Standard_DS3_v2",
-                        "adminUsername": "",
-                        "adminPassword": "",
+                        "adminUsername": "localadmin",
+                        "adminPassword": "M1cr0soft123",
                         "osType": "windows",
                         "virtualNetwork": {
                             "name": "onprem-vnet"
