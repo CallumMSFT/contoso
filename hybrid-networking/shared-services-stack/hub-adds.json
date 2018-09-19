@@ -11,8 +11,8 @@
                         "vmCount": 2,
                         "computerNamePrefix": "azuread",
                         "namePrefix": "azuread",
-                        "adminUsername": "",
-                        "adminPassword": "",
+                        "adminUsername": "localadmin",
+                        "adminPassword": "M1cr0soft123",
                         "osType": "windows",
                         "virtualNetwork": {
                             "resourceGroupName": "hub-vnet-rg",
@@ -49,12 +49,12 @@
                                     "DomainNetbiosName": "CONTOSO",
                                     "PrimaryDcIpAddress": "192.168.0.4",
                                     "AdminCreds": {
-                                      "UserName": "",
-                                      "Password": ""
+                                      "UserName": "localadmin",
+                                      "Password": "M1cr0soft123"
                                     },
                                     "SafeModeAdminCreds": {
-                                      "UserName": "",
-                                      "Password": ""
+                                      "UserName": "localadmin",
+                                      "Password": "M1cr0soft123"
                                     }
                                   }
                                 }
