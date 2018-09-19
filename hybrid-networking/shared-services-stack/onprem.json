@@ -42,8 +42,8 @@
                         "vmCount": 1,
                         "namePrefix": "jb",
                         "size": "Standard_DS1_v2",
-                        "adminUsername": "",
-                        "adminPassword": "",
+                        "adminUsername": "localadmin",
+                        "adminPassword": "M1cr0soft123",
                         "osType": "windows",
                         "virtualNetwork": {
                             "name": "onprem-vnet"
@@ -109,12 +109,12 @@
                                             "DomainName": "contoso.com",
                                             "DomainNetbiosName": "CONTOSO",
                                             "AdminCreds": {
-                                              "UserName": "",
-                                              "Password": ""
+                                              "UserName": "localadmin",
+                                              "Password": "M1cr0soft123"
                                             },
                                             "SafeModeAdminCreds": {
-                                              "UserName": "",
-                                              "Password": ""
+                                              "UserName": "localadmin",
+                                              "Password": "M1cr0soft123"
                                             }
                                         }
                                     }
@@ -151,12 +151,12 @@
                                         "DomainNetbiosName": "CONTOSO",
                                         "PrimaryDcIpAddress": "192.168.0.4",
                                         "AdminCreds": {
-                                          "UserName": "",
-                                          "Password": ""
+                                          "UserName": "localadmin",
+                                          "Password": "M1cr0soft123"
                                         },
                                         "SafeModeAdminCreds": {
-                                          "UserName": "",
-                                          "Password": ""
+                                          "UserName": "localadmin",
+                                          "Password": "M1cr0soft123"
                                         }
                                       }
                                     }
